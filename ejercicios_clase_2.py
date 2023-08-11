@@ -1,9 +1,26 @@
 # Ejercicio 1
 
 # Asigna un valor entero 2001 a la variable space_odyssey y muestra su valor.
-# Descubre el tipo del literal 'Good night & Good luck'.
-# Identifica el tipo del literal True.
+# Descubre el tipo de dato del literal 'Good night & Good luck'.
 # Asigna la expresión 10 * 3.0 a la variable result y muestra su tipo.
+
+space_odyssey = 2001
+print(space_odyssey)
+literal = 'Good night & Good luck'
+print(type(literal))  # imprime el tipo de dato de la variable "literal"
+result = 10 * 3.0
+print(result)
+print(type(result))
+
+print("--------------------------")
+
+print(3 + 9)
+print(6 - 2)
+print(5 * 5)
+print(9 / 2)
+print(9 // 2)
+print(9 % 4) # Módulo - resto de la div
+print(2 ** 4)
 
 
 # Ejercicio 2

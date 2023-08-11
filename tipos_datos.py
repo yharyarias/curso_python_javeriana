@@ -1,9 +1,10 @@
 # Boolean
+# True 👉 1
+# False 👉 0
 
 # Enteros
 
 # Flotantes
-# True 👉 1
-# False 👉 0
+
 
 # Operaciones

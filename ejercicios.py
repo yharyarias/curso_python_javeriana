@@ -2,7 +2,7 @@
 
 # 1. Imprimir el nombre completo con apellidos, letra por 
 # letra de forma vertical
-
+ 
 # Ejemplo:
 
 palabra = "gato"
